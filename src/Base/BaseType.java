@@ -20,7 +20,6 @@ public class BaseType {
 
         String word1 = "First string";
         String word2 = "result: " + (b+s) + " next result: "+  (100/5); // 200
-
         // + - * / % ()
         System.out.println(word2);
 //        System.out.println(b);
